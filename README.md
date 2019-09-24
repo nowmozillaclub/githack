@@ -1,2 +1,3 @@
-# githack
-Demo repo for GitHack 2019
+# GitHack
+
+This is the demo repo for GitHack 2019
