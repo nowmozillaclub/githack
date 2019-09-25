@@ -1,3 +1,3 @@
 # GitHack
 
-Hello world!
+Goodbye world!
